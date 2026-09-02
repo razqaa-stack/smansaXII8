@@ -1,12 +1,422 @@
 {
   "kelases": [
-    "UNASSIGNED / CLEARED"
+    "XII.8"
   ],
-  "siswas": [],
+  "siswas": [
+    {
+      "id": 1788337035823,
+      "nama": "ALYA DISHA CAHYANI",
+      "nohp": "0099901390",
+      "kelas": "XII.8"
+    },
+    {
+      "id": 1788337035824,
+      "nama": "ASSYIFA FABRYAN",
+      "nohp": "0098237543",
+      "kelas": "XII.8"
+    },
+    {
+      "id": 1788337035825,
+      "nama": "AULIA SYOFIANI",
+      "nohp": "0093878580",
+      "kelas": "XII.8"
+    },
+    {
+      "id": 1788337035826,
+      "nama": "AWALIA RAMADHANI",
+      "nohp": "0096647034",
+      "kelas": "XII.8"
+    },
+    {
+      "id": 1788337035827,
+      "nama": "BELVA ADARA HENDRI",
+      "nohp": "0081793457",
+      "kelas": "XII.8"
+    },
+    {
+      "id": 1788337035828,
+      "nama": "CAHAYA",
+      "nohp": "0087237153",
+      "kelas": "XII.8"
+    },
+    {
+      "id": 1788337035829,
+      "nama": "CHELSY CALISTA",
+      "nohp": "0084832491",
+      "kelas": "XII.8"
+    },
+    {
+      "id": 1788337035830,
+      "nama": "FATHIR NAUVAL ARSHA",
+      "nohp": "0093881741",
+      "kelas": "XII.8"
+    },
+    {
+      "id": 1788337035832,
+      "nama": "FAUZIAH ASSAADAH",
+      "nohp": "0092184350",
+      "kelas": "XII.8"
+    },
+    {
+      "id": 1788337035833,
+      "nama": "FELICIA NOVIANDARI SALLY",
+      "nohp": "0088474747",
+      "kelas": "XII.8"
+    },
+    {
+      "id": 1788337035834,
+      "nama": "HAFIZHATI AMALIYAH",
+      "nohp": "0084465027",
+      "kelas": "XII.8"
+    },
+    {
+      "id": 1788337035835,
+      "nama": "HANIF ABRISYAM AMRI",
+      "nohp": "0095376166",
+      "kelas": "XII.8"
+    },
+    {
+      "id": 1788337035836,
+      "nama": "HAYFA MUTHIA MEKA",
+      "nohp": "0094093893",
+      "kelas": "XII.8"
+    },
+    {
+      "id": 1788337035837,
+      "nama": "IBNU 'AZZAM AL HAFITS",
+      "nohp": "0089089396",
+      "kelas": "XII.8"
+    },
+    {
+      "id": 1788337035838,
+      "nama": "IHSAN ATTHORIQ",
+      "nohp": "0096827578",
+      "kelas": "XII.8"
+    },
+    {
+      "id": 1788337035840,
+      "nama": "JUMAILA ROFALI",
+      "nohp": "0088157612",
+      "kelas": "XII.8"
+    },
+    {
+      "id": 1788337035841,
+      "nama": "KEISYA OKTA ANDRILA",
+      "nohp": "0083173197",
+      "kelas": "XII.8"
+    },
+    {
+      "id": 1788337035842,
+      "nama": "M.ALFIANSYAH DELEON PUTRA",
+      "nohp": "0092676329",
+      "kelas": "XII.8"
+    },
+    {
+      "id": 1788337035843,
+      "nama": "MUHAMMAD NABIL ABDAN SYAKURAN",
+      "nohp": "0099526834",
+      "kelas": "XII.8"
+    },
+    {
+      "id": 1788337035844,
+      "nama": "MUHAMMAD RAFKY AKBAR",
+      "nohp": "3074520021",
+      "kelas": "XII.8"
+    },
+    {
+      "id": 1788337035845,
+      "nama": "MUHAMMAD THARIQ AL FAYYADH",
+      "nohp": "0091229009",
+      "kelas": "XII.8"
+    },
+    {
+      "id": 1788337035846,
+      "nama": "NADIFA PUTRI",
+      "nohp": "0095212852",
+      "kelas": "XII.8"
+    },
+    {
+      "id": 1788337035848,
+      "nama": "NADZIRA TAFDILA",
+      "nohp": "0093326717",
+      "kelas": "XII.8"
+    },
+    {
+      "id": 1788337035849,
+      "nama": "NAJIIB ABDU RAZZAQ",
+      "nohp": "0092485518",
+      "kelas": "XII.8"
+    },
+    {
+      "id": 1788337035850,
+      "nama": "NAYLATUL FADILLAH",
+      "nohp": "0088674098",
+      "kelas": "XII.8"
+    },
+    {
+      "id": 1788337035851,
+      "nama": "NISWATUL DZAKIYYAH",
+      "nohp": "0084940376",
+      "kelas": "XII.8"
+    },
+    {
+      "id": 1788337035852,
+      "nama": "SASKIA UFAIRAH",
+      "nohp": "0099321070",
+      "kelas": "XII.8"
+    },
+    {
+      "id": 1788337035853,
+      "nama": "SITI KHANSA HARISYA",
+      "nohp": "0093749081",
+      "kelas": "XII.8"
+    },
+    {
+      "id": 1788337035854,
+      "nama": "SYABIL AL SAFARAZ",
+      "nohp": "0081936783",
+      "kelas": "XII.8"
+    },
+    {
+      "id": 1788337035856,
+      "nama": "VADYA FAJRINA ALMIRA",
+      "nohp": "0098300152",
+      "kelas": "XII.8"
+    },
+    {
+      "id": 1788337035857,
+      "nama": "VELLA SYIFA LAKSMANA",
+      "nohp": "0093484099",
+      "kelas": "XII.8"
+    },
+    {
+      "id": 1788337035858,
+      "nama": "WAFA ISTIQOMAH",
+      "nohp": "0099698718",
+      "kelas": "XII.8"
+    },
+    {
+      "id": 1788337035859,
+      "nama": "ZAHRA ASYIFA",
+      "nohp": "0091297954",
+      "kelas": "XII.8"
+    },
+    {
+      "id": 1788337035860,
+      "nama": "ZAKYATU ANNAFISA",
+      "nohp": "0097020400",
+      "kelas": "XII.8"
+    }
+  ],
   "metadata": {
-    "kelas": "UNASSIGNED / CLEARED",
-    "jumlah_siswa": 0,
-    "updated": "2026-08-28T09:38:37.468Z"
+    "kelas": "XII.8",
+    "jumlah_siswa": 34,
+    "updated": "2026-09-02T08:18:49.852Z"
   },
-  "siswa": []
+  "siswa": [
+    {
+      "id": 1788337035823,
+      "nama": "ALYA DISHA CAHYANI",
+      "nohp": "0099901390",
+      "kelas": "XII.8"
+    },
+    {
+      "id": 1788337035824,
+      "nama": "ASSYIFA FABRYAN",
+      "nohp": "0098237543",
+      "kelas": "XII.8"
+    },
+    {
+      "id": 1788337035825,
+      "nama": "AULIA SYOFIANI",
+      "nohp": "0093878580",
+      "kelas": "XII.8"
+    },
+    {
+      "id": 1788337035826,
+      "nama": "AWALIA RAMADHANI",
+      "nohp": "0096647034",
+      "kelas": "XII.8"
+    },
+    {
+      "id": 1788337035827,
+      "nama": "BELVA ADARA HENDRI",
+      "nohp": "0081793457",
+      "kelas": "XII.8"
+    },
+    {
+      "id": 1788337035828,
+      "nama": "CAHAYA",
+      "nohp": "0087237153",
+      "kelas": "XII.8"
+    },
+    {
+      "id": 1788337035829,
+      "nama": "CHELSY CALISTA",
+      "nohp": "0084832491",
+      "kelas": "XII.8"
+    },
+    {
+      "id": 1788337035830,
+      "nama": "FATHIR NAUVAL ARSHA",
+      "nohp": "0093881741",
+      "kelas": "XII.8"
+    },
+    {
+      "id": 1788337035832,
+      "nama": "FAUZIAH ASSAADAH",
+      "nohp": "0092184350",
+      "kelas": "XII.8"
+    },
+    {
+      "id": 1788337035833,
+      "nama": "FELICIA NOVIANDARI SALLY",
+      "nohp": "0088474747",
+      "kelas": "XII.8"
+    },
+    {
+      "id": 1788337035834,
+      "nama": "HAFIZHATI AMALIYAH",
+      "nohp": "0084465027",
+      "kelas": "XII.8"
+    },
+    {
+      "id": 1788337035835,
+      "nama": "HANIF ABRISYAM AMRI",
+      "nohp": "0095376166",
+      "kelas": "XII.8"
+    },
+    {
+      "id": 1788337035836,
+      "nama": "HAYFA MUTHIA MEKA",
+      "nohp": "0094093893",
+      "kelas": "XII.8"
+    },
+    {
+      "id": 1788337035837,
+      "nama": "IBNU 'AZZAM AL HAFITS",
+      "nohp": "0089089396",
+      "kelas": "XII.8"
+    },
+    {
+      "id": 1788337035838,
+      "nama": "IHSAN ATTHORIQ",
+      "nohp": "0096827578",
+      "kelas": "XII.8"
+    },
+    {
+      "id": 1788337035840,
+      "nama": "JUMAILA ROFALI",
+      "nohp": "0088157612",
+      "kelas": "XII.8"
+    },
+    {
+      "id": 1788337035841,
+      "nama": "KEISYA OKTA ANDRILA",
+      "nohp": "0083173197",
+      "kelas": "XII.8"
+    },
+    {
+      "id": 1788337035842,
+      "nama": "M.ALFIANSYAH DELEON PUTRA",
+      "nohp": "0092676329",
+      "kelas": "XII.8"
+    },
+    {
+      "id": 1788337035843,
+      "nama": "MUHAMMAD NABIL ABDAN SYAKURAN",
+      "nohp": "0099526834",
+      "kelas": "XII.8"
+    },
+    {
+      "id": 1788337035844,
+      "nama": "MUHAMMAD RAFKY AKBAR",
+      "nohp": "3074520021",
+      "kelas": "XII.8"
+    },
+    {
+      "id": 1788337035845,
+      "nama": "MUHAMMAD THARIQ AL FAYYADH",
+      "nohp": "0091229009",
+      "kelas": "XII.8"
+    },
+    {
+      "id": 1788337035846,
+      "nama": "NADIFA PUTRI",
+      "nohp": "0095212852",
+      "kelas": "XII.8"
+    },
+    {
+      "id": 1788337035848,
+      "nama": "NADZIRA TAFDILA",
+      "nohp": "0093326717",
+      "kelas": "XII.8"
+    },
+    {
+      "id": 1788337035849,
+      "nama": "NAJIIB ABDU RAZZAQ",
+      "nohp": "0092485518",
+      "kelas": "XII.8"
+    },
+    {
+      "id": 1788337035850,
+      "nama": "NAYLATUL FADILLAH",
+      "nohp": "0088674098",
+      "kelas": "XII.8"
+    },
+    {
+      "id": 1788337035851,
+      "nama": "NISWATUL DZAKIYYAH",
+      "nohp": "0084940376",
+      "kelas": "XII.8"
+    },
+    {
+      "id": 1788337035852,
+      "nama": "SASKIA UFAIRAH",
+      "nohp": "0099321070",
+      "kelas": "XII.8"
+    },
+    {
+      "id": 1788337035853,
+      "nama": "SITI KHANSA HARISYA",
+      "nohp": "0093749081",
+      "kelas": "XII.8"
+    },
+    {
+      "id": 1788337035854,
+      "nama": "SYABIL AL SAFARAZ",
+      "nohp": "0081936783",
+      "kelas": "XII.8"
+    },
+    {
+      "id": 1788337035856,
+      "nama": "VADYA FAJRINA ALMIRA",
+      "nohp": "0098300152",
+      "kelas": "XII.8"
+    },
+    {
+      "id": 1788337035857,
+      "nama": "VELLA SYIFA LAKSMANA",
+      "nohp": "0093484099",
+      "kelas": "XII.8"
+    },
+    {
+      "id": 1788337035858,
+      "nama": "WAFA ISTIQOMAH",
+      "nohp": "0099698718",
+      "kelas": "XII.8"
+    },
+    {
+      "id": 1788337035859,
+      "nama": "ZAHRA ASYIFA",
+      "nohp": "0091297954",
+      "kelas": "XII.8"
+    },
+    {
+      "id": 1788337035860,
+      "nama": "ZAKYATU ANNAFISA",
+      "nohp": "0097020400",
+      "kelas": "XII.8"
+    }
+  ]
 }
